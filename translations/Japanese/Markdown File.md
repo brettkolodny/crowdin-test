@@ -1,11 +1,11 @@
-# Title
+# タイトル
 
-This is a markdown file.
+これはマークダウンファイルです。
 
-## Subsection
+## サブセクション
 
-There are words here.
+ここに言葉があります。
 
-1. This is a list.
+1. これはリストです。
 
-2. It has two items
+2. 2つの項目があります
